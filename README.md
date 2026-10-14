@@ -4,9 +4,9 @@
 Мои языки программирования:
 
 <div align="center">
-<img src="https://img.shields.io/badge/C%23-passing?style=for-the-badge&logoColor=purple&labelColor=black&color=purple" alt="C#">
-<img src="https://img.shields.io/badge/C%2B%2B-passing?style=for-the-badge&logo=cplusplus&logoColor=659ad2&labelColor=black&color=659ad2" alt="C++">
-<img src="https://img.shields.io/badge/Delphi-passing?style=for-the-badge&logo=delphi&logoColor=red&labelColor=black&color=red" alt="Delphi">
+<img src="https://img.shields.io/badge/C%23-passing?style=for-the-badge&logoColor=purple&labelColor=white&color=purple" alt="C#">
+<img src="https://img.shields.io/badge/C%2B%2B-passing?style=for-the-badge&logo=cplusplus&logoColor=659ad2&labelColor=white&color=659ad2" alt="C++">
+<img src="https://img.shields.io/badge/Delphi-passing?style=for-the-badge&logo=delphi&logoColor=red&labelColor=white&color=red" alt="Delphi">
 </div>
 Я в:
 <div align="center">
