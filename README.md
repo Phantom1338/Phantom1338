@@ -28,7 +28,7 @@
 
 <img class="crown-icon" src="./assets/nari.webp" alt="crown" width="20" style="vertical-align:-6px"> • Мои профили построены вокруг **антропоморфного кота из «Cult Of The Lamb, или же Культ Ягнёнка».** *по имени Нариндер/Тот-Кто-Ждёт.* Для меня он является лучшим персонажем в этом рогалике.
 
-## <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%2394a3b8" width="18" align="center"> Языки Программирования которые знаю:
+## Языки Программирования которые знаю:
 <div align="center">
 <img src="https://img.shields.io/badge/C%23-passing?style=for-the-badge&logoColor=purple&labelColor=black&color=purple" alt="C#">
 <img src="https://img.shields.io/badge/C%2B%2B-passing?style=for-the-badge&logo=cplusplus&logoColor=659ad2&labelColor=black&color=659ad2" alt="C++">
